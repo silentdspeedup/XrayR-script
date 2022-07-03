@@ -14,7 +14,7 @@ Find the source code here: [https://github.com/silentdspeedup/XrayR](https://git
 # 一键安装
 
 ```
-wget -N https://github.com/silentdspeedup/XrayR-script/blob/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/silentdspeedup/XrayR-script/master/install.sh && bash install.sh
 ```
 
 # Docker 安装
