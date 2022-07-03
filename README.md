@@ -3,18 +3,18 @@ A Xray backend framework that can easily support many panels.
 
 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
 
-Find the source code here: [Misaka-blog/XrayR](https://github.com/Misaka-blog/XrayR)
+Find the source code here: [https://github.com/silentdspeedup/XrayR](https://github.com/silentdspeedup/XrayR)
 
 如对脚本不放心，可使用此沙箱先测一遍再使用：https://killercoda.com/playgrounds/scenario/ubuntu
 
 # 详细使用教程
 
-[教程](https://crackair.gitbook.io/xrayr-project/)
+[教程](https://anonymous-6.gitbook.io/xrayr/)
 
 # 一键安装
 
 ```
-wget -N https://raw.githubusercontents.com/Misaka-blog/XrayR-script/master/install.sh && bash install.sh
+wget -N https://github.com/silentdspeedup/XrayR-script/blob/master/install.sh && bash install.sh
 ```
 
 # Docker 安装
